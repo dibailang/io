@@ -1,1 +1,1 @@
-# https://github.com/azhanlang/io/index.html
+https://azhanlang.github.io/io/
