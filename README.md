@@ -1,1 +1,1 @@
-https://azhanlang.github.io/io/
+https://dibailang.github.io/io/
